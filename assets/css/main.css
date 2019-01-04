@@ -2456,6 +2456,7 @@ input, select, textarea {
 		ul li {
 			padding-left: 0.5em;
 		}
+		
 
 		ul.alt {
 			list-style: none;
@@ -2471,6 +2472,8 @@ input, select, textarea {
 					border-top: 0;
 					padding-top: 0;
 				}
+			
+			
 
 	dl {
 		margin: 0 0 2em 0;
